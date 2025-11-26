@@ -1,1 +1,1 @@
-vpc_name = "vpc-terraform"
+vpc_name = "vpc-terraform-v3"
